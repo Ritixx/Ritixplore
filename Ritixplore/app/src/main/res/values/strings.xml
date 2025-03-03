@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ritixplore</string>
+    <string name="search_hint">Enter URL or search term</string>
+    <string name="search_button">Go</string>
+    <string name="app_tagline">Kill the Distraction and achieve productivity</string>
+    <string name="fact_1">Focus fact: The average person is distracted every 40 seconds when working in front of a computer.</string>
+    <string name="fact_2">Productivity tip: It takes about 23 minutes to fully recover from a distraction.</string>
+    <string name="fact_3">Focus fact: Multitasking can reduce productivity by up to 40%.</string>
+    <string name="fact_4">Productivity tip: The most productive 10% of people work in 52-minute intervals with 17-minute breaks.</string>
+    <string name="fact_5">Focus fact: Reading text-only content increases comprehension by 25% compared to content with images.</string>
+    <string name="welcome_message">Welcome to Ritixplore</string>
+</resources>
